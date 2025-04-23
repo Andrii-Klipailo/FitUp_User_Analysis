@@ -47,7 +47,7 @@ This indicates a gap between intent and engagement — and a potential area for 
 FitUp is most popular in **France and Germany**, which together represent the largest share of users.  
 
 Additional findings:  
-- 4 out of 10 users have a **gym membership**, indicating a strong investment mindset toward fitness.  
+- **4** out of **10** users have a **gym membership**, indicating a strong investment mindset toward fitness.  
 - The profile insights are especially representative of users from these two countries.
 
 
