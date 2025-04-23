@@ -22,6 +22,8 @@ This interactive dashboard provides insights into the user base through visualiz
 
 ### Age Distribution  
 ![age](https://github.com/Andrii-Klipailo/FitUp_User_Portrait_Dashboard/blob/main/images/age.png) 
+
+
 **25%** of all users fall within the **20–25** age group.  
 This suggests a young and tech-savvy audience — ideal for mobile app engagement.
 
@@ -29,6 +31,8 @@ This suggests a young and tech-savvy audience — ideal for mobile app engagemen
 
 ### Gender Breakdown  
 ![gender](https://github.com/Andrii-Klipailo/FitUp_User_Portrait_Dashboard/blob/main/images/gender.png) 
+
+
 The user base is predominantly **male (65%)**.  
 This skew may be worth addressing through targeted content or marketing for underrepresented groups.
 
@@ -36,6 +40,8 @@ This skew may be worth addressing through targeted content or marketing for unde
 
 ### Activity Levels & Goals
 ![activity](https://github.com/Andrii-Klipailo/FitUp_User_Portrait_Dashboard/blob/main/images/activity.png) 
+
+
 **50%** of users identify as **beginners**.  
 Among them, **40% aim to lose weight**, yet half of them only show **medium activity levels**.  
 This indicates a gap between intent and engagement — and a potential area for nudging users into more consistent habits.
@@ -44,6 +50,8 @@ This indicates a gap between intent and engagement — and a potential area for 
 
 ### Geographic Distribution  
 ![map](https://github.com/Andrii-Klipailo/FitUp_User_Portrait_Dashboard/blob/main/images/map.png) 
+
+
 FitUp is most popular in **France and Germany**, which together represent the largest share of users.  
 
 Additional findings:  
