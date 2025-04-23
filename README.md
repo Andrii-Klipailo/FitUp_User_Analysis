@@ -1,4 +1,4 @@
-# FitUp User Portrait Dashboard  
+# FitUp User Analysis Dashboard  
 **Understanding the profile and behavior of FitUp users**  
 ---  
 ![FitUp Logo](https://github.com/Andrii-Klipailo/FitUp_User_Portrait_Dashboard/blob/main/images/logo.png)  
