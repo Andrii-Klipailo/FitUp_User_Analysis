@@ -16,7 +16,7 @@ The goal of this analysis is to build a **comprehensive user portrait** by explo
 🔗 [View the FitUp User Dashboard in Tableau](https://public.tableau.com/views/FitUp_Dashboard/FitUpDashboard?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)  
 This interactive dashboard provides insights into the user base through visualizations of profile and behavioral data.
 
-![dasboard](https://github.com/Andrii-Klipailo/FitUp_User_Portrait_Dashboard/blob/main/images/dasboard.png) 
+![dasboard](https://github.com/Andrii-Klipailo/FitUp_User_Portrait_Dashboard/blob/main/images/dashboard.png) 
 
 ## Key Insights from the Dashboard  
 
