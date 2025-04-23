@@ -54,7 +54,7 @@ Additional findings:
 ## Findings and Conclusion  
 
 This dashboard provides a clear snapshot of the FitUp user base:  
-- The typical user is a **young male beginner** aged 20–25, located in **France or Germany**.  
+- The typical user is a **young male beginner** aged **20–25**, located in **France or Germany**.  
 - Many users have **clear fitness goals** (like weight loss), but their **activity levels suggest a need for stronger engagement loops**.  
 - The **high rate of gym membership** suggests financial and motivational readiness — an opportunity for upselling and deeper integration of in-app + offline routines.
 
